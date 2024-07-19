@@ -4,7 +4,7 @@ Contribute to [OpenDroneMap](https://docs.opendronemap.org)'s documentation!!! A
 
 # "But I don't know if I can contribute"
 
-Even if you think your contribution might not be valuable, it might be for other users! If you discovered something remotely useful to you, it probably is very useful to others! :)
+Even if you think your contribution might not be valuable, it might absolutely be for other users! If you discovered something remotely useful to you, it probably is very useful to others! :)
 
 Tips, tricks, hacks, datasets, lessons learned, best practices, every bit helps. We want to know! Share it.
 
